@@ -1,1 +1,0 @@
-{"name":"Local: 4-increasing_array","url":"d:\\Code\\cses\\4-increasing_array.cpp","tests":[{"id":1752447239494,"input":"5\n3 2 5 1 7","output":"5\n"},{"id":1752448335837,"input":"10\n1000000000 1 1 1 1 1 1 1 1 1","output":"8999999991"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\cses\\4-increasing_array.cpp","group":"local","local":true}
