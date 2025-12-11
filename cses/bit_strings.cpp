@@ -1,7 +1,6 @@
 #include <iostream>
 
 long long power(long long n){
-  //std::cout << n << std::endl;
   if(n == 0) return 1;
   return 2 * power(n-1) % 1000000007;
 }
