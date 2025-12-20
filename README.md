@@ -1,8 +1,8 @@
-# 💻 My Competitive Programming Solutions
+# My Competitive Programming Solutions
 
 Repository pribadi untuk menyimpan solusi problem dari berbagai platform competitive programming.
 
-## 📚 Platform
+## Platform
 
 - **[Codeforces](https://codeforces.com/)**
 - **[SPOJ](https://www.spoj.com/)**
@@ -11,7 +11,7 @@ Repository pribadi untuk menyimpan solusi problem dari berbagai platform competi
 - **[LeetCode](https://leetcode.com/)**
 - dan platform lainnya.
 
-## 📁 Struktur Repository
+## Struktur Repository
 
 ```
 .
@@ -27,7 +27,7 @@ Repository pribadi untuk menyimpan solusi problem dari berbagai platform competi
 └── schematics/          # Schematics NPC/ITS Competitive Programming Solutions
 ```
 
-## 🎯 Topik yang Dicakup
+## Topik yang Dicakup
 
 - **Data Structures**: Array, Stack, Queue, Set, Map, Tree, Graph
 - **Algorithms**: Sorting, Searching, Greedy, Dynamic Programming, DFS/BFS
@@ -35,10 +35,10 @@ Repository pribadi untuk menyimpan solusi problem dari berbagai platform competi
 - **String Processing**: Pattern matching, manipulation
 - **Problem Solving**: Implementation, ad-hoc, constructive algorithms
 
-## 📌 Notes
+## Notes
 
-Repository ini untuk dokumentasi pribadi dan pembelajaran. Feel free to explore, tapi lebih baik coba solve sendiri dulu sebelum lihat solusinya! 😉
+Repository ini untuk dokumentasi pribadi dan pembelajaran. Feel free to explore, tapi lebih baik coba solve sendiri dulu sebelum lihat solusinya!
 
 ---
 
-*Keep grinding! 🚀*
+*Keep grinding!*
